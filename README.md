@@ -6,6 +6,8 @@
 
 随着webgl技术在浏览器端的高速发展，涌现了一批优秀的3d开源库如threejs，使得web前端在网页上也能实现vr技术，丰富我们的网站交互操作，本文尝试从threejs入手，探索网页上实现vr交互的可行性。
 
+![1.gif](./1.gif)
+
 ### 什么是threejs
 
 官网对Threejs的介绍非常简单：“Javascript 3D library”。openGL是一个跨平台3D/2D的绘图标准，WebGL则是openGL在浏览器上的一个实现。
